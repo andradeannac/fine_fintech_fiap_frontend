@@ -23,7 +23,7 @@ C:\Users\Anna Clara\Desktop\fintech-frontend
 
 Ou, caso utilize Git:
 ```bash
-git clone https://github.com/seu-usuario/fintech-frontend.git
+git clone https://github.com/andradeannac/fine_fintech_fiap_frontend
 cd fintech-frontend
 ```
 
